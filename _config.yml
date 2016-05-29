@@ -1,0 +1,14 @@
+layout_spectrum: 0.3448449308052659
+typography_spectrum: 0.5529049434699118
+color:
+  brandStrength: 0.9219327033497393
+  lightness: 0.3837096942588687
+  saturation: 0.3197332127019763
+  rhythmicContrast: 0.8855432488489896
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: English Training Company
