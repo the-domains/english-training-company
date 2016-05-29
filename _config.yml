@@ -6,9 +6,9 @@ color:
   saturation: 0.3197332127019763
   rhythmicContrast: 0.8855432488489896
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: English Training Company
